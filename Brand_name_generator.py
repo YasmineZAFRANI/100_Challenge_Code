@@ -33,14 +33,8 @@ else:
 ###Version 3
 import random
 
-# Fun greeting
-greetings = ["Welcome, future brand owner!", "Get ready to discover your brand name!",
-             "Let's create a random brand name!"]
-print(random.choice(greetings) + "\n")
-import random
-
-# Simple and sleek greeting
-greetings = ["Let's create something unique!", "Your future brand starts here!", "Ready to find your brand name?"]
+# Greeting
+greetings = ["Let's create something radom!", "Your future brand starts here!", "Ready to find your brand name?"]
 print(random.choice(greetings) + "\n")
 
 # Get user input
